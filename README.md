@@ -1,2 +1,2 @@
-## Welcome to nkitamuraQC's GitHub!
+## nkitamuraQC
 #### Available repositories
