@@ -18,6 +18,7 @@ We are developing software with the aim of automating first-principles calculati
 In addition to the above, we are also actively developing or exploring the following, though some are currently private:
 
 - Computational chemistry software using tensor networks
+- Quantum chemistry software for molecular spectroscopy
 - Quantum chemical calculations with solvent effects
 - Chemical reaction prediction using deep learning
 - Property calculation libraries based on machine learning potentials
