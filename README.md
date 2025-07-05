@@ -1,4 +1,4 @@
-# nkitamuraQC's Research and Software Development Projects
+# nkitamuraQC
 
 ## Overview
 
