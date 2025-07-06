@@ -22,7 +22,7 @@ In addition to the above, we are also actively developing or exploring the follo
 - Quantum chemistry software for molecular spectroscopy
 - Quantum chemical calculations with solvent effects
 - Chemical reaction prediction using deep learning
-- Property calculation libraries based on machine learning potentials
+- Optimization of crystal structures and property calculation libraries based on machine learning potentials
 - Materials database manipulation tools
 - Docker container manipulation tools
 - Mathematical study notes, including statistics and related fields
