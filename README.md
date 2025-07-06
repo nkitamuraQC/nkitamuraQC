@@ -12,6 +12,7 @@ We are developing software with the aim of automating first-principles calculati
 - Expanding the applicability of quantum chemistry methods
 - Development of software for numerical linear algebra
 - Collection and organization of various computational tools
+  - statistics, machine learning, etc
 
 ## Ongoing and Private Projects
 
