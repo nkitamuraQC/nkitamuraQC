@@ -6,7 +6,7 @@ We are developing software with the aim of automating first-principles calculati
 
 ## Main Projects
 
-- Development of software for the automation of first-principles calculations and flexible integration with other computational chemistry software
+- Development of software for the automation of first-principles calculations and flexible integration with other computational chemistry software (such as group theoretical calculations)
 - Property and correlation function calculation software for solid-state and molecular systems
 - Development of software that bridges quantum computing and quantum chemical calculations
 - Expanding the applicability of quantum chemistry methods
