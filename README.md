@@ -25,4 +25,4 @@ In addition to the above, we are also actively developing or exploring the follo
 - Optimization of crystal structures and property calculation libraries based on machine learning potentials
 - Materials database manipulation tools
 - Docker container manipulation tools
-- Mathematical study notes, including statistics and related fields
+- Mathematical study notes, including statistics and related fields for chemistry applications
