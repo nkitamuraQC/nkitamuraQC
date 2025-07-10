@@ -10,8 +10,8 @@ We are developing software with the aim of automating first-principles calculati
 - Property and correlation function calculation software for solid-state and molecular systems
 - Development of software that bridges quantum computing and quantum chemical calculations
 - Expanding the applicability of quantum chemistry methods
-- Development of software for numerical linear algebra
-- Collection and organization of various computational tools
+- Development of software for numerical linear algebra for chemistry applications
+- Collection and organization of various computational tools for chemistry applications
   - statistics, machine learning, etc
 
 ## Ongoing and Private Projects
