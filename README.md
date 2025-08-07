@@ -21,6 +21,7 @@ In addition to the above, we are also actively developing or exploring the follo
 - Computational chemistry software using tensor networks
 - Quantum chemistry software for molecular spectroscopy
 - Quantum chemical calculations with solvent effects
+- Machine learning wavefunction
 - Chemical reaction prediction using deep learning
 - Optimization of crystal structures and property calculation libraries based on machine learning potentials
 - Materials database manipulation tools
