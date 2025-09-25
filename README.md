@@ -26,4 +26,4 @@ In addition to the above, we are also actively developing or exploring the follo
 - Optimization of crystal structures and property calculation libraries based on machine learning potentials
 - Materials database manipulation tools
 - Docker container manipulation tools for chemistry software development
-- Study notes, including statistics, mathematics and related fields for chemistry applications
+- Study notes, including statistics, mathematics, computer science and related fields for chemistry applications
