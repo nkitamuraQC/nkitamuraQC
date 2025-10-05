@@ -23,6 +23,7 @@ In addition to the above, we are also actively developing or exploring the follo
 - Quantum chemical calculations with solvent effects
 - Machine learning wavefunction
 - Chemical reaction prediction using deep learning
+- Materials Infomatics Workflow
 - Optimization of crystal structures and property calculation libraries based on machine learning potentials
 - Materials database manipulation tools
 - Docker container manipulation tools for chemistry software development
