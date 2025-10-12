@@ -2,7 +2,7 @@
 
 ## Overview
 
-We are developing software with the aim of automating first-principles calculations and enabling flexible integration with other computational chemistry tools. Our work spans a wide range of computational materials science and quantum chemistry topics.
+We are developing softwares with the aim of automating first-principles calculations and enabling flexible integration with other computational chemistry tools. Our work spans a wide range of computational materials science and quantum chemistry topics.
 
 ## Main Projects
 
