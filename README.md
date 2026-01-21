@@ -28,4 +28,4 @@ In addition to the above, we are also actively developing or exploring the follo
 - Materials database manipulation tools
 - Docker container manipulation tools for chemistry software development
 - Computational Chemistry OSS based projects
-- Study notes, including statistics, mathematics, computer science and related fields for chemistry applications
+- Study notes and softwares for numerical calculations including statistics, mathematics, computer science and related fields for chemistry applications
