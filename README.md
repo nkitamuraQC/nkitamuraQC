@@ -28,4 +28,6 @@ In addition to the above, we are also actively developing or exploring the follo
 - Materials database manipulation tools
 - Docker container manipulation tools for computational chemistry software development
 - Computational Chemistry OSS based projects
+- Development of software for automatically analytic calculation using the Wick theorem
+- Development of software for numerical calculations for specific materials
 - Study notes and softwares for numerical calculations including statistics, mathematics, computer science and related fields for chemistry applications
