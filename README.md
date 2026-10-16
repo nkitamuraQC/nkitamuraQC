@@ -35,7 +35,7 @@ In addition to the above, we are also actively developing or exploring the follo
 - Web API for QC apps
 
 ## Links
-- diagrams: Goldstone diagram generator 
+- diagram: Goldstone diagram generator 
   - https://github.com/nkitamuraQC/diagram
 - tbpgrep: Tight-binding symmetry Analyzer 
   - https://github.com/nkitamuraQC/tbpgrep
