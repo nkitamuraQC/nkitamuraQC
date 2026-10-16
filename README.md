@@ -39,3 +39,5 @@ In addition to the above, we are also actively developing or exploring the follo
   - https://github.com/nkitamuraQC/diagram
 - tbpgrep: Tight-binding symmetry Analyzer 
   - https://github.com/nkitamuraQC/tbpgrep
+- autodftpy: Automatic DFT calculation
+  - https://github.com/nkitamuraQC/autodftpy
