@@ -41,5 +41,5 @@ In addition to the above, we are also actively developing or exploring the follo
   - https://github.com/nkitamuraQC/tbpgrep
 - autodftpy: Automatic DFT calculation
   - https://github.com/nkitamuraQC/autodftpy
-  - corrpy: Quantum chemistry property calculations
-    - https://github.com/nkitamuraQC/corrpy
+- corrpy: Quantum chemistry property calculations
+  - https://github.com/nkitamuraQC/corrpy
