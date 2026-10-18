@@ -37,7 +37,7 @@ In addition to the above, we are also actively developing or exploring the follo
 ## Links
 - diagram: Goldstone diagram generator 
   - https://github.com/nkitamuraQC/diagram
-- tbpgrep: Tight-binding symmetry Analyzer 
+- tbpgrep: Tight-binding symmetry analyzer 
   - https://github.com/nkitamuraQC/tbpgrep
 - autodftpy: Automatic DFT calculation
   - https://github.com/nkitamuraQC/autodftpy
