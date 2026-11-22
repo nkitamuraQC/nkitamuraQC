@@ -51,3 +51,5 @@ In addition to the above, we are also actively developing or exploring the follo
   - https://github.com/nkitamuraQC/psi4
 - pennylane
   - https://github.com/nkitamuraQC/pennylane
+- QuantumESPRESSO
+  - https://github.com/nkitamuraQC/q-e
