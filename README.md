@@ -64,6 +64,8 @@ In addition to the above, we are also actively developing or exploring the follo
   - https://github.com/nkitamuraQC/block2-preview
 - ITensor
   - https://github.com/nkitamuraQC/ITensorMPS.jl
+- vscf
+  - https://github.com/nkitamuraQC/pyscf-vscf
 
 ## Materials Infomatics
 - pymatgen
