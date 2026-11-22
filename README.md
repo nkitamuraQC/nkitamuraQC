@@ -15,6 +15,7 @@ We are developing software with the aim of automating first-principles calculati
   - statistics, machine learning, etc
 - Development of a Symbolic Computation Code for Quantum Chemistry
 - Development of Code for Analyzing Point Group Symmetry of Orbitals in Quantum Chemistry
+- Development of Computational Methods for Electronic Correlations, Such as Coupled Clusters
 
 ## Ongoing and Private Projects
 
