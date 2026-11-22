@@ -37,7 +37,7 @@ In addition to the above, we are also actively developing or exploring the follo
 - Study notes and softwares for numerical calculations including statistics, mathematics, computer science and related fields for chemistry applications
 - Web API for QC apps
 
-## Code Under Development
+## Links
 - diagram: Goldstone diagram generator 
   - https://github.com/nkitamuraQC/diagram
 - tbpgrep: Tight-binding symmetry analyzer 
