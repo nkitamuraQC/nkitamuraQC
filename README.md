@@ -13,6 +13,7 @@ We are developing software with the aim of automating first-principles calculati
 - Development of software for numerical linear algebra for chemistry applications
 - Collection and organization of various computational tools for chemistry applications
   - statistics, machine learning, etc
+- Development of a Symbolic Computation Code for Quantum Chemistry
 
 ## Ongoing and Private Projects
 
