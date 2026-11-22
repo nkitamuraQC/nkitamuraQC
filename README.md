@@ -47,5 +47,7 @@ In addition to the above, we are also actively developing or exploring the follo
 ## Others
 - OpenMolcas
   - https://github.com/nkitamuraQC/OpenMolcas
+- psi4
+  - https://github.com/nkitamuraQC/psi4
 - pennylane
   - https://github.com/nkitamuraQC/pennylane
