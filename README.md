@@ -78,3 +78,5 @@ In addition to the above, we are also actively developing or exploring the follo
   - https://github.com/nkitamuraQC/mdanalysis
 - optuna
   - https://github.com/nkitamuraQC/optuna
+- jax
+  - https://github.com/nkitamuraQC/jax
