@@ -37,7 +37,7 @@ In addition to the above, we are also actively developing or exploring the follo
 - Study notes and softwares for numerical calculations including statistics, mathematics, computer science and related fields for chemistry applications
 - Web API for QC apps
 
-## Some Portfolio links
+## Links to several portfolios
 - diagram: Goldstone diagram generator 
   - https://github.com/nkitamuraQC/diagram
 - tbpgrep: Tight-binding symmetry analyzer 
@@ -47,7 +47,7 @@ In addition to the above, we are also actively developing or exploring the follo
 - corrpy: Quantum chemistry property calculations
   - https://github.com/nkitamuraQC/corrpy
 
-## Links for Quantum Chemistry 
+## Links to Quantum Chemistry 
 - OpenMolcas
   - https://github.com/nkitamuraQC/OpenMolcas
 - psi4
@@ -59,7 +59,7 @@ In addition to the above, we are also actively developing or exploring the follo
 - CP2K
   - https://github.com/nkitamuraQC/cp2k
 
-## Links for Materials Infomatics
+## Links to Materials Infomatics
 - pymatgen
   - https://github.com/nkitamuraQC/pymatgen
 - deepchem
