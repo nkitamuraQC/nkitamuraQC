@@ -48,6 +48,8 @@ In addition to the above, we are also actively developing or exploring the follo
   - https://github.com/nkitamuraQC/corrpy
 
 ## Quantum Chemistry 
+- PySCF
+  - https://github.com/nkitamuraQC/pyscf
 - OpenMolcas
   - https://github.com/nkitamuraQC/OpenMolcas
 - psi4
