@@ -44,3 +44,6 @@ In addition to the above, we are also actively developing or exploring the follo
 - corrpy: Quantum chemistry property calculations
   - https://github.com/nkitamuraQC/corrpy
 
+## Others
+- OpenMolcas
+  - https://github.com/nkitamuraQC/OpenMolcas
