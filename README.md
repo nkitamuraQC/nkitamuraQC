@@ -64,3 +64,7 @@ In addition to the above, we are also actively developing or exploring the follo
   - https://github.com/nkitamuraQC/pymatgen
 - deepchem
   - https://github.com/nkitamuraQC/deepchem
+- Lammps
+  - https://github.com/nkitamuraQC/lammps
+- MDAnalysis
+  - https://github.com/nkitamuraQC/mdanalysis
