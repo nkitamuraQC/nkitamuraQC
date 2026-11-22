@@ -58,6 +58,8 @@ In addition to the above, we are also actively developing or exploring the follo
   - https://github.com/nkitamuraQC/q-e
 - CP2K
   - https://github.com/nkitamuraQC/cp2k
+- block2
+  - https://github.com/nkitamuraQC/block2-preview
 
 ## Materials Infomatics
 - pymatgen
